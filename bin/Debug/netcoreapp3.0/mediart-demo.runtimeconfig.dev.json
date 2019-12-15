@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/ganon/.dotnet/store/|arch|/|tfm|",
+      "/home/ganon/.nuget/packages",
+      "/opt/dotnet/sdk/NuGetFallbackFolder"
+    ]
+  }
+}
