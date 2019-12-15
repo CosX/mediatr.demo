@@ -8,6 +8,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Weather/FetchWeatherHandler.cs" root0="FORCE_HIGHLIGHTING" />
@@ -30,12 +33,14 @@
         <option value="$PROJECT_DIR$/Handlers/Pizza/WarnAboutNinjaTurtlesHandler.cs" />
         <option value="$PROJECT_DIR$/Pizza/OrderPizza.cs" />
         <option value="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" />
-        <option value="$PROJECT_DIR$/Controllers/AssortedController.cs" />
         <option value="$PROJECT_DIR$/Pizza/NotifyRestaurantHandler.cs" />
+        <option value="$PROJECT_DIR$/Controllers/AssortedController.cs" />
+        <option value="$PROJECT_DIR$/Pizza/WarnAboutNinjaTurtlesHandler.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1Uz4EUhum9JObILxT7BpjnifnMc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -97,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576345979001</updated>
-      <workItem from="1576345985088" duration="5334000" />
+      <workItem from="1576345985088" duration="5872000" />
     </task>
     <servers />
   </component>
@@ -106,6 +111,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
